@@ -55,7 +55,7 @@ HTTP2
    									 }
  								 }
 							};
-							
+					
 		to access the properties of objects using ( . ) 					
 				layer0.layer1Item2.layer2Item1.layer3Item1
 	    to add property we will simply attach the object name with the object property with a dot and assign it a value.
